@@ -1,0 +1,28 @@
+C:\Users\irfan\Desktop\projeler\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\irfan\Desktop\projeler\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Users\irfan\Desktop\projeler\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\irfan\Desktop\projeler\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\Users\irfan\Desktop\projeler\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

@@ -1,0 +1,34 @@
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.deps.json
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.runtimeconfig.json
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.dll
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.pdb
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.AssemblyInfoInputs.cache
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.AssemblyInfo.cs
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.csproj.CopyComplete
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.dll
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\refint\DataAccsessLayer.dll
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.pdb
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.genruntimeconfig.cache
+C:\Users\irfan\Desktop\projeler\DataAccsessLayer\obj\Debug\net6.0\ref\DataAccsessLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.deps.json
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.runtimeconfig.json
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\bin\Debug\net6.0\DataAccsessLayer.pdb
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.AssemblyInfoInputs.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.AssemblyInfo.cs
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.csproj.CopyComplete
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\refint\DataAccsessLayer.dll
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.pdb
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\DataAccsessLayer.genruntimeconfig.cache
+C:\Users\irfan\Desktop\N Katmanlı Mimari\DataAccsessLayer\obj\Debug\net6.0\ref\DataAccsessLayer.dll
